@@ -1,0 +1,180 @@
+Script started on Wednesday 19 March 2014 06:55:45 PM IST
+]0;divya@Divya: ~/projects/pdfcheckdivya@Divya:~/projects/pdfcheck$ rails cgem install wkhtmltopdf-binaryrails c[K[Kscript install git://github.com/thorny-sun/praw nto.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C install git://github.com/thorny-sun/prawnt[1Po.git[A]0;divya@Divya: ~/projects/pdfcheckdivya@Divya:~/projects/pdfcheck$ [C[C[C[C[C install git://github.com/thorny-sun/prawnto[1P.git[A]0;divya@Divya: ~/projects/pdfcheckdivya@Divya:~/projects/pdfcheck$ [C[C[C[C install git://github.com/thorny-sun/prawnto.[1Pgit[A]0;divya@Divya: ~/projects/pdfcheckdivya@Divya:~/projects/pdfcheck$ [C[C[C install git://github.com/thorny-sun/prawnto.g[1Pit[A]0;divya@Divya: ~/projects/pdfcheckdivya@Divya:~/projects/pdfcheck$ [C[C install git://github.com/thorny-sun/prawnto.gi[1Pt[A]0;divya@Divya: ~/projects/pdfcheckdivya@Divya:~/projects/pdfcheck$ [C install git://github.com/thorny-sun/prawnto.git[K[A]0;divya@Divya: ~/projects/pdfcheckdivya@Divya:~/projects/pdfcheck$ p install git://github.com/thorny-sun/prawnto.git[A]0;divya@Divya: ~/projects/pdfcheckdivya@Divya:~/projects/pdfcheck$ [Cl install git://github.com/thorny-sun/prawnto.git[A]0;divya@Divya: ~/projects/pdfcheckdivya@Divya:~/projects/pdfcheck$ [C[Ci install git://github.com/thorny-sun/prawnto.git[A]0;divya@Divya: ~/projects/pdfcheckdivya@Divya:~/projects/pdfcheck$ [C[C[C install git://github.com/thorny-sun/prawnto.g[1Pit[A]0;divya@Divya: ~/projects/pdfcheckdivya@Divya:~/projects/pdfcheck$ [C[Cu install git://github.com/thorny-sun/prawnto.git[A]0;divya@Divya: ~/projects/pdfcheckdivya@Divya:~/projects/pdfcheck$ [C[C[Cg install git://github.com/thorny-sun/prawnto.git[A]0;divya@Divya: ~/projects/pdfcheckdivya@Divya:~/projects/pdfcheck$ [C[C[C[Ci install git://github.com/thorny-sun/prawnto.git[A]0;divya@Divya: ~/projects/pdfcheckdivya@Divya:~/projects/pdfcheck$ [C[C[C[C[Cn install git://github.com/thorny-sun/prawnto.git[A]0;divya@Divya: ~/projects/pdfcheckdivya@Divya:~/projects/pdfcheck$ [C[C[C[C[C[C
+
+plugin: command not found
+]0;divya@Divya: ~/projects/pdfcheckdivya@Divya:~/projects/pdfcheck$ plugin install git://github.com/thorny-sun/prawnnto.git[A]0;divya@Divya: ~/projects/pdfcheckdivya@Divya:~/projects/pdfcheck$ rails c[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cplugin install git://github.com/thorny-sun/prawnnto.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crplugin install git://github.com/thorny-sun/prawnto.git[A]0;divya@Divya: ~/projects/pdfcheckdivya@Divya:~/projects/pdfcheck$ [Caplugin install git://github.com/thorny-sun/prawnto.git[A]0;divya@Divya: ~/projects/pdfcheckdivya@Divya:~/projects/pdfcheck$ [C[Ciplugin install git://github.com/thorny-sun/prawnto.git[A]0;divya@Divya: ~/projects/pdfcheckdivya@Divya:~/projects/pdfcheck$ [C[C[Clplugin install git://github.com/thorny-sun/prawnto.git[A]0;divya@Divya: ~/projects/pdfcheckdivya@Divya:~/projects/pdfcheck$ [C[C[C[Csplugin install git://github.com/thorny-sun/prawnto.git[A]0;divya@Divya: ~/projects/pdfcheckdivya@Divya:~/projects/pdfcheck$ [C[C[C[C[C plugin install git://github.com/thorny-sun/prawnto.git[A]0;divya@Divya: ~/projects/pdfcheckdivya@Divya:~/projects/pdfcheck$ [C[C[C[C[C[C
+
+Usage:
+  rails plugin new APP_PATH [options]
+
+Options:
+  -r, [--ruby=PATH]              # Path to the Ruby binary of your choice
+                                 # Default: /home/divya/.rvm/rubies/ruby-2.1.0/bin/ruby
+  -m, [--template=TEMPLATE]      # Path to some plugin template (can be a filesystem path or URL)
+      [--skip-gemfile]           # Don't create a Gemfile
+  -B, [--skip-bundle]            # Don't run bundle install
+  -G, [--skip-git]               # Skip .gitignore file
+      [--skip-keeps]             # Skip source control .keep files
+  -O, [--skip-active-record]     # Skip Active Record files
+  -S, [--skip-sprockets]         # Skip Sprockets files
+  -d, [--database=DATABASE]      # Preconfigure for selected database (options: mysql/oracle/postgresql/sqlite3/frontbase/ibm_db/sqlserver/jdbcmysql/jdbcsqlite3/jdbcpostgresql/jdbc)
+                                 # Default: sqlite3
+  -j, [--javascript=JAVASCRIPT]  # Preconfigure for selected JavaScript library
+                                 # Default: jquery
+  -J, [--skip-javascript]        # Skip JavaScript files
+      [--dev]                    # Setup the plugin with Gemfile pointing to your Rails checkout
+      [--edge]                   # Setup the plugin with Gemfile pointing to Rails repository
+  -T, [--skip-test-unit]         # Skip Test::Unit files
+      [--rc=RC]                  # Path to file containing extra configuration options for rails command
+      [--no-rc]                  # Skip loading of extra configuration options from .railsrc file
+      [--dummy-path=DUMMY_PATH]  # Create dummy application at given path
+                                 # Default: test/dummy
+      [--full]                   # Generate a rails engine with bundled Rails application for testing
+      [--mountable]              # Generate mountable isolated application
+      [--skip-gemspec]           # Skip gemspec file
+      [--skip-gemfile-entry]     # If creating plugin in application's directory skip adding entry to Gemfile
+
+Runtime options:
+  -f, [--force]    # Overwrite files that already exist
+  -p, [--pretend]  # Run but do not make any changes
+  -q, [--quiet]    # Suppress status output
+  -s, [--skip]     # Skip files that already exist
+
+Rails options:
+  -h, [--help]  # Show this help message and quit
+
+Description:
+    The 'rails plugin new' command creates a skeleton for developing any
+    kind of Rails extension with ability to run tests using dummy Rails
+    application.
+
+Example:
+    rails plugin new ~/Code/Ruby/blog
+
+    This generates a skeletal Rails plugin in ~/Code/Ruby/blog.
+    See the README in the newly created plugin to get going.
+]0;divya@Divya: ~/projects/pdfcheckdivya@Divya:~/projects/pdfcheck$ rails plugin install git://github.com/thorny-sunn/prawnto.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgithub.com/thorny-sun/[1Pprawnto.git[A]0;divya@Divya: ~/projects/pdfcheckdivya@Divya:~/projects/pdfcheck$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgithub.com/thorny-sun/p[1Prawnto.git[A]0;divya@Divya: ~/projects/pdfcheckdivya@Divya:~/projects/pdfcheck$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgithub.com/thorny-sun/pr[1Pawnto.git[A]0;divya@Divya: ~/projects/pdfcheckdivya@Divya:~/projects/pdfcheck$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C@github.com/thorny-sun/prawnto.git[A]0;divya@Divya: ~/projects/pdfcheckdivya@Divya:~/projects/pdfcheck$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+Usage:
+  rails plugin new APP_PATH [options]
+
+Options:
+  -r, [--ruby=PATH]              # Path to the Ruby binary of your choice
+                                 # Default: /home/divya/.rvm/rubies/ruby-2.1.0/bin/ruby
+  -m, [--template=TEMPLATE]      # Path to some plugin template (can be a filesystem path or URL)
+      [--skip-gemfile]           # Don't create a Gemfile
+  -B, [--skip-bundle]            # Don't run bundle install
+  -G, [--skip-git]               # Skip .gitignore file
+      [--skip-keeps]             # Skip source control .keep files
+  -O, [--skip-active-record]     # Skip Active Record files
+  -S, [--skip-sprockets]         # Skip Sprockets files
+  -d, [--database=DATABASE]      # Preconfigure for selected database (options: mysql/oracle/postgresql/sqlite3/frontbase/ibm_db/sqlserver/jdbcmysql/jdbcsqlite3/jdbcpostgresql/jdbc)
+                                 # Default: sqlite3
+  -j, [--javascript=JAVASCRIPT]  # Preconfigure for selected JavaScript library
+                                 # Default: jquery
+  -J, [--skip-javascript]        # Skip JavaScript files
+      [--dev]                    # Setup the plugin with Gemfile pointing to your Rails checkout
+      [--edge]                   # Setup the plugin with Gemfile pointing to Rails repository
+  -T, [--skip-test-unit]         # Skip Test::Unit files
+      [--rc=RC]                  # Path to file containing extra configuration options for rails command
+      [--no-rc]                  # Skip loading of extra configuration options from .railsrc file
+      [--dummy-path=DUMMY_PATH]  # Create dummy application at given path
+                                 # Default: test/dummy
+      [--full]                   # Generate a rails engine with bundled Rails application for testing
+      [--mountable]              # Generate mountable isolated application
+      [--skip-gemspec]           # Skip gemspec file
+      [--skip-gemfile-entry]     # If creating plugin in application's directory skip adding entry to Gemfile
+
+Runtime options:
+  -f, [--force]    # Overwrite files that already exist
+  -p, [--pretend]  # Run but do not make any changes
+  -q, [--quiet]    # Suppress status output
+  -s, [--skip]     # Skip files that already exist
+
+Rails options:
+  -h, [--help]  # Show this help message and quit
+
+Description:
+    The 'rails plugin new' command creates a skeleton for developing any
+    kind of Rails extension with ability to run tests using dummy Rails
+    application.
+
+Example:
+    rails plugin new ~/Code/Ruby/blog
+
+    This generates a skeletal Rails plugin in ~/Code/Ruby/blog.
+    See the README in the newly created plugin to get going.
+]0;divya@Divya: ~/projects/pdfcheckdivya@Divya:~/projects/pdfcheck$ cd vendor/
+]0;divya@Divya: ~/projects/pdfcheck/vendordivya@Divya:~/projects/pdfcheck/vendor$ cd plu[K[K[K[K[K[Kls
+[0m[01;34massets[0m
+]0;divya@Divya: ~/projects/pdfcheck/vendordivya@Divya:~/projects/pdfcheck/vendor$ cd ..
+]0;divya@Divya: ~/projects/pdfcheckdivya@Divya:~/projects/pdfcheck$ bundle
+Fetching gem metadata from https://rubygems.org/...........
+Fetching additional metadata from https://rubygems.org/..
+Resolving dependencies...
+Using rake (10.1.1)
+Using i18n (0.6.9)
+Using minitest (4.7.5)
+Using multi_json (1.9.0)
+Using atomic (1.1.16)
+Using thread_safe (0.3.0)
+Using tzinfo (0.3.39)
+Using activesupport (4.0.2)
+Using builder (3.1.4)
+Using erubis (2.7.0)
+Using rack (1.5.2)
+Using rack-test (0.6.2)
+Using actionpack (4.0.2)
+Using mime-types (1.25.1)
+Using polyglot (0.3.4)
+Using treetop (1.4.15)
+Using mail (2.5.4)
+Using actionmailer (4.0.2)
+Using activemodel (4.0.2)
+Using activerecord-deprecated_finders (1.0.3)
+Using arel (4.0.2)
+Using activerecord (4.0.2)
+Using bundler (1.5.3)
+Using coffee-script-source (1.7.0)
+Using execjs (2.0.2)
+Using coffee-script (2.2.0)
+Using thor (0.18.1)
+Using railties (4.0.2)
+Using coffee-rails (4.0.1)
+Using hike (1.2.3)
+Using jbuilder (1.5.3)
+Using jquery-rails (3.1.0)
+Using json (1.8.1)
+Using mysql2 (0.3.15)
+Using pdf-core (0.2.4)
+Using pdfkit (0.6.1)
+Using ttfunk (1.1.1)
+Using prawn (1.0.0)
+Installing prawn-rails (0.0.2)
+Using tilt (1.4.1)
+Using sprockets (2.11.0)
+Using sprockets-rails (2.0.1)
+Using rails (4.0.2)
+Using rdoc (4.1.1)
+Using sass (3.2.16)
+Using sass-rails (4.0.2)
+Using sdoc (0.4.0)
+Using shrimp (0.0.3)
+Using turbolinks (2.2.1)
+Using uglifier (2.5.0)
+[32mYour bundle is complete![0m
+[32mUse `bundle show [gemname]` to see where a bundled gem is installed.[0m
+]0;divya@Divya: ~/projects/pdfcheckdivya@Divya:~/projects/pdfcheck$ cd ..
+]0;divya@Divya: ~/projectsdivya@Divya:~/projects$ git clone git@github.com:luciditydigital/wicked-pdf-samp le-app.git
+Cloning into 'wicked-pdf-sample-app'...
+remote: Reusing existing pack: 106, done.[K
+Receiving objects:   0% (1/106)   Receiving objects:   1% (2/106)   Receiving objects:   2% (3/106)   Receiving objects:   3% (4/106)   Receiving objects:   4% (5/106)   Receiving objects:   5% (6/106)   Receiving objects:   6% (7/106)   Receiving objects:   7% (8/106)   Receiving objects:   8% (9/106)   Receiving objects:   9% (10/106)   Receiving objects:  10% (11/106)   Receiving objects:  11% (12/106)   Receiving objects:  12% (13/106)   Receiving objects:  13% (14/106)   Receiving objects:  14% (15/106)   Receiving objects:  15% (16/106)   Receiving objects:  16% (17/106)   Receiving objects:  17% (19/106)   Receiving objects:  18% (20/106)   Receiving objects:  19% (21/106)   Receiving objects:  20% (22/106)   Receiving objects:  21% (23/106)   Receiving objects:  22% (24/106)   Receiving objects:  23% (25/106)   Receiving objects:  24% (26/106)   Receiving objects:  25% (27/106)   Receiving objects:  26% (28/106)   Receiving objects:  27% (29/106)   Receiving objects:  28% (30/106)   Receiving objects:  29% (31/106)   Receiving objects:  30% (32/106)   Receiving objects:  31% (33/106)   Receiving objects:  32% (34/106)   Receiving objects:  33% (35/106)   Receiving objects:  34% (37/106)   Receiving objects:  35% (38/106)   Receiving objects:  36% (39/106)   Receiving objects:  37% (40/106)   Receiving objects:  38% (41/106)   Receiving objects:  39% (42/106)   Receiving objects:  40% (43/106)   Receiving objects:  41% (44/106)   Receiving objects:  42% (45/106)   Receiving objects:  43% (46/106)   Receiving objects:  44% (47/106)   Receiving objects:  45% (48/106)   Receiving objects:  46% (49/106)   Receiving objects:  47% (50/106)   Receiving objects:  48% (51/106)   Receiving objects:  49% (52/106)   Receiving objects:  50% (53/106)   Receiving objects:  51% (55/106)   Receiving objects:  52% (56/106)   Receiving objects:  53% (57/106)   Receiving objects:  54% (58/106)   Receiving objects:  55% (59/106)   Receiving objects:  56% (60/106)   Receiving objects:  57% (61/106)   Receiving objects:  58% (62/106), 36.00 KiB | 43 KiB/s   Receiving objects:  59% (63/106), 36.00 KiB | 43 KiB/s   Receiving objects:  60% (64/106), 36.00 KiB | 43 KiB/s   Receiving objects:  61% (65/106), 36.00 KiB | 43 KiB/s   Receiving objects:  62% (66/106), 36.00 KiB | 43 KiB/s   Receiving objects:  63% (67/106), 36.00 KiB | 43 KiB/s   Receiving objects:  64% (68/106), 36.00 KiB | 43 KiB/s   Receiving objects:  65% (69/106), 36.00 KiB | 43 KiB/s   Receiving objects:  66% (70/106), 36.00 KiB | 43 KiB/s   remote: Total 106 (delta 0), reused 0 (delta 0)[K
+Receiving objects:  67% (72/106), 36.00 KiB | 43 KiB/s   Receiving objects:  68% (73/106), 36.00 KiB | 43 KiB/s   Receiving objects:  69% (74/106), 36.00 KiB | 43 KiB/s   Receiving objects:  70% (75/106), 36.00 KiB | 43 KiB/s   Receiving objects:  71% (76/106), 36.00 KiB | 43 KiB/s   Receiving objects:  72% (77/106), 36.00 KiB | 43 KiB/s   Receiving objects:  73% (78/106), 36.00 KiB | 43 KiB/s   Receiving objects:  74% (79/106), 36.00 KiB | 43 KiB/s   Receiving objects:  75% (80/106), 36.00 KiB | 43 KiB/s   Receiving objects:  76% (81/106), 36.00 KiB | 43 KiB/s   Receiving objects:  77% (82/106), 36.00 KiB | 43 KiB/s   Receiving objects:  78% (83/106), 36.00 KiB | 43 KiB/s   Receiving objects:  79% (84/106), 36.00 KiB | 43 KiB/s   Receiving objects:  80% (85/106), 36.00 KiB | 43 KiB/s   Receiving objects:  81% (86/106), 36.00 KiB | 43 KiB/s   Receiving objects:  82% (87/106), 36.00 KiB | 43 KiB/s   Receiving objects:  83% (88/106), 36.00 KiB | 43 Kte![0m
+[32mUse `bundle show [gemname]` to see where a bundled gem is installed.[0m
+]0;divya@Divya: ~/projects/pdfcheckdivya@Divya:~/projects/pdfcheck$ cd ..
+]0;divya@Divya: ~/projectsdivya@Divya:~/projects$ git clone git@github.com:luciditydigital/wicked-pdf-samp le-app.git
+Cloning into 'wicked-pdf-sample-app'...
+remote: Reusing existing pack: 106, done.[K
+Receiving objects:   0% (1/106)   Receiving objects:   1% (2/106)   Receiving objects:   2% (3/106)   Receiving objects:   3% (4/106)   Receiving objects:   4% (5/106)   Receiving objects:   5% (6/106)   Receiving objects:   6% (7/106)   Receiving objects:   7% (8/106)   Receiving objects:   8% (9/106)   Receiving objects:   9% (10/106)   Receiving objects:  10% (11/106)   Receiving objects:  11% (12/106)   Receiving objects:  12% (13/106)   Receiving objects:  13% (14/106)   Receiving objects:  14% (15/106)   Receiving objects:  15% (16/106)   Receiving objects:  16% (17/106)   Receiving objects:  17% (19/106)   Receiving objects:  18% (20/106)   Receiving objects:  19% (21/106)   Receiving objects:  20% (22/106)   Receiving objects:  21% (23/106)   Receiving objects:  22% (24/106)   Receiving objects:  23% (25/106)   Receiving objects:  24% (26/106)   Receiving objects:  25% (27/106)   Receiving objects:  26% (28/106)   Receiving objects:  27% (29/106)   Receiving objects:  28% (30/106)   Receiving objects:  29% (31/106)   Receiving objects:  30% (32/106)   Receiving objects:  31% (33/106)   Receiving objects:  32% (34/106)   Receiving objects:  33% (35/106)   Receiving objects:  34% (37/106)   Receiving objects:  35% (38/106)   Receiving objects:  36% (39/106)   Receiving objects:  37% (40/106)   Receiving objects:  38% (41/106)   Receiving objects:  39% (42/106)   Receiving objects:  40% (43/106)   Receiving objects:  41% (44/106)   Receiving objects:  42% (45/106)   Receiving objects:  43% (46/106)   Receiving objects:  44% (47/106)   Receiving objects:  45% (48/106)   Receiving objects:  46% (49/106)   Receiving objects:  47% (50/106)   Receiving objects:  48% (51/106)   Receiving objects:  49% (52/106)   Receiving objects:  50% (53/106)   Receiving objects:  51% (55/106)   Receiving objects:  52% (56/106)   Receiving objects:  53% (57/106)   Receiving objects:  54% (58/106)   Receiving objects:  55% (59/106)   Receiving objects:  56% (60/106)   Receiving objects:  57% (61/106)   Receiving objects:  58% (62/106), 36.00 KiB | 43 KiB/s   Receiving objects:  59% (63/106), 36.00 KiB | 43 KiB/s   Receiving objects:  60% (64/106), 36.00 KiB | 43 KiB/s   Receiving objects:  61% (65/106), 36.00 KiB | 43 KiB/s   Receiving objects:  62% (66/106), 36.00 KiB | 43 KiB/s   Receiving objects:  63% (67/106), 36.00 KiB | 43 KiB/s   Receiving objects:  64% (68/106), 36.00 KiB | 43 KiB/s   Receiving objects:  65% (69/106), 36.00 KiB | 43 KiB/s   Receiving objects:  66% (70/106), 36.00 KiB | 43 KiB/s   remote: Total 106 (delta 0), reused 0 (delta 0)[K
+Receiving objects:  67% (72/106), 36.00 KiB | 43 KiB/s   Receiving objects:  68% (73/106), 36.00 KiB | 43 KiB/s   Receiving objects:  69% (74/106), 36.00 KiB | 43 KiB/s   Receiving objects:  70% (75/106), 36.00 KiB | 43 KiB/s   Receiving objects:  71% (76/106), 36.00 KiB | 43 KiB/s   Receiving objects:  72% (77/106), 36.00 KiB | 43 KiB/s   Receiving objects:  73% (78/106), 36.00 KiB | 43 KiB/s   Receiving objects:  74% (79/106), 36.00 KiB | 43 KiB/s   Receiving objects:  75% (80/106), 36.00 KiB | 43 KiB/s   Receiving objects:  76% (81/106), 36.00 KiB | 43 KiB/s   Receiving objects:  77% (82/106), 36.00 KiB | 43 KiB/s   Receiving objects:  78% (83/106), 36.00 KiB | 43 KiB/s   Receiving objects:  79% (84/106), 36.00 KiB | 43 KiB/s   Receiving objects:  80% (85/106), 36.00 KiB | 43 KiB/s   Receiving objects:  81% (86/106), 36.00 KiB | 43 KiB/s   Receiving objects:  82% (87/106), 36.00 KiB | 43 KiB/s   Receiving objects:  83% (88/106), 36.00 KiB | 43 KiB/s   Receiving objects:  84% (90/106), 36.00 KiB | 43 KiB/s   Receiving objects:  85% (
